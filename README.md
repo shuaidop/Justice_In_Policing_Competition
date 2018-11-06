@@ -1,4 +1,4 @@
-# How-to-imporve-justice-in-policing-
+# How-to-imporve-justice-in-policing
 Kaggle Project
 
 Currently ongoing project.
